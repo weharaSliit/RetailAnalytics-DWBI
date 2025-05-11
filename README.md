@@ -19,7 +19,7 @@ This project demonstrates a complete end-to-end Business Intelligence (BI) workf
 |--------|-------------|
 | `Assig1_DWBI_CUBE/` | Contains SSAS cube files including dimensions, measures, and deployment scripts. |
 | `DW_BusinessIntelligenceAssignment/` | SQL files and SSMS scripts used for data warehouse schema creation and population. |
-| `Reports/` | SSRS report definitions (.rdl files) for KPI analysis and performance tracking. |
+| `Reports/` | Reports including basic idea on the project. |
 | `powerBI/` | Power BI dashboards used for visual analytics and insights. |
 | `ExcelDemo/` | Excel-based pivot tables and OLAP operations on cube data. |
 
@@ -84,6 +84,4 @@ This project was completed as part of my academic coursework on **Data Warehousi
 
 ---
 
-## 📬 Feedback & Contribution
 
-Feel free to fork, clone, or open issues for improvement or collaboration!
